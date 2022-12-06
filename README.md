@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Akshit_Malik
+- 👀 I’m interested in Programming and Web Development
+- 🌱 I’m currently learning Python, CSS and HTML5
